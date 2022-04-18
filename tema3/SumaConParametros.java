@@ -1,4 +1,4 @@
-package ejercicios;
+package tema3;
 
 public class SumaConParametros {
 

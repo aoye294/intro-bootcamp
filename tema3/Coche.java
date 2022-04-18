@@ -1,4 +1,4 @@
-package ejercicios;
+package tema3;
 
 public class Coche{
     public int num_puertas = 4;
