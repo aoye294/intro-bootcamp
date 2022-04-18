@@ -83,15 +83,3 @@ public class Main {
 
 }
 
-// class Coche implements Vehiculo{
-
-// @Override
-// public void Acelerar(int countVelocity){
-// System.out.println();
-// }
-// @Override
-// public void Frenar(int countVelocity){
-
-// }
-
-// }
